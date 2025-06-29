@@ -1,3 +1,5 @@
+Issue: https://github.com/module-federation/core/issues/3863
+
 Reproduction steps:
 
 1. run provider:
